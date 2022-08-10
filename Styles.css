@@ -1,0 +1,70 @@
+/* =================Tags=================== */
+body{
+  background-color:#ecedf0;
+  text-align: center;
+  margin: 0;
+  padding-top: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  margin-top: 10px;
+  text-decoration: none;
+  font-size: 2rem;
+  color: #34a47b;
+}
+
+
+
+
+/* ===========classes=========== */
+.div1{
+  background-color: #34a47b;
+  height: 100px;
+  width: 400px;
+  margin: 3px;
+  display: inline-block;
+}
+
+.div2{
+  display: inline-block;
+  width: 150px;
+  height: 100px;
+  background-color: #0096FF;
+  margin: auto 2px;
+}
+
+.one{
+  margin: 30px auto 0;
+}
+.two{
+  display: inline-block;
+  margin: 0;
+}
+.mainBody{
+  width: 1000px;
+  text-align: center;
+  margin: 0 auto 200px;
+}
+
+
+
+
+.btn {
+  background: #3dcc97;
+  background-image: linear-gradient(to bottom, #3dcc97, #34a47b);
+  border: none;
+  border-radius: 30px;
+  box-shadow: 0px 5px 5px #64f2d6;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 15px 30px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: linear-gradient(to bottom, #3cb0fd, #0096FF);
+  text-decoration: none;
+  box-shadow: 0px 5px 5px #6cd5ff;
+}
